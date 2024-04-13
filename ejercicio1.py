@@ -1,4 +1,4 @@
-class CajaDeAhorro:
+class CajaDeAhorro: hola
     __nrocta=str
     __cuil=str
     __apellido=str
